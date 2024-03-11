@@ -1,4 +1,4 @@
-# US Career
+# US Career Dashboard
 ![Maven Career Dashboard](https://github.com/saurav2021c/US_Career_Dashboard/assets/97289683/191338e6-4090-4e1b-b3eb-ef12895ab830)
 
 ## High School Visit Dashboard - US Labor Statistics (2017-2020)
