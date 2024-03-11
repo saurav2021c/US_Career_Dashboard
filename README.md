@@ -3,7 +3,7 @@
 
 ## High School Visit Dashboard - US Labor Statistics (2017-2020)
 
-This Excel dashboard is designed to help high school seniors explore wage and employment trends across different industries throughout the United States, from 2017 to 2020. It provides an interactive tool to understand career options and salary expectations.
+This **Excel** dashboard is designed to help high school seniors explore wage and employment trends across different industries throughout the United States, from 2017 to 2020. It provides an interactive tool to understand career options and salary expectations.
 
 
 ### [Portfolio Project](https://mavenanalytics.io/project/12900)
